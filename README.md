@@ -1,2 +1,2 @@
 # udemy-projects
-The Complete 2024 Web Development Bootcamp By Angela Yu
+Collection of projects I worked on from the various courses I took on udemy
